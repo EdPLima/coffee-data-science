@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Café com Dados: Uma Abordagem Analítica
 
 <img src="docs/assets/images/coffe_data.webp" alt="Imagem de uma xícara de café desenhada, onde a fumaça do café imita fluxos e descobertas. No fundo da imagem tem alguns gráficos." />
@@ -38,3 +39,6 @@ Esse projeto representa uma oportunidade única de transformar dados em valor es
 
 <img src="docs/assets/images/coffe2
 .webp" alt="Imagem de uma xícara de café desenhada, onde a fumaça do café imita fluxos e descobertas. No fundo da imagem tem alguns gráficos." />
+=======
+# coffee-data-science
+>>>>>>> e1c3c1784331a23a83fed7ac5ae44cf0570dd45c
